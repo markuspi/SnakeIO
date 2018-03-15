@@ -1,0 +1,6 @@
+# Exclude compiled classes
+/bin
+# Exclude eclipse-project files
+.classpath
+.project
+.settings
